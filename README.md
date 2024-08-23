@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**VitorMMS1/VitorMMS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor Michel
 
-Here are some ideas to get you started:
+- Estudando na Alura e cursando ensino médio
+- Desenvolvendo em Java
+- Utilizo esse espaço para organização e compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+vitormichel050@gmail.com
+
+![](https://media1.tenor.com/m/5Bvr3MTimtgAAAAC/bored-anime.gif)
